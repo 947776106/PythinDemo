@@ -3,7 +3,7 @@ import time
 import MQTT
 import machine
 
-print("gfdgdfgdfgfdgdfgfdgdfgdfgfdgfdg")
+print("第一个")
 
 
 print(************************)
