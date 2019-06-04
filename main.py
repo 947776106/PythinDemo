@@ -3,9 +3,10 @@ import time
 import MQTT
 import machine
 
+print("gfdgdfgdfgfdgdfgfdgdfgdfgfdgfdg")
+
+
 print(************************)
-=======
-import MQTT
-import machine
-print(*************************)
+
+
 
